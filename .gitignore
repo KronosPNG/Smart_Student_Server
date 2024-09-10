@@ -3,9 +3,6 @@
 *.mp3
 *.wav
 
-# text files
-*.txt
-
 # pyc files
 *.pyc
 /__pycache__/*

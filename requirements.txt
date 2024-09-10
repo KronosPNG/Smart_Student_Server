@@ -1,0 +1,10 @@
+celery==5.4.0
+Flask==3.0.3
+keyboard==0.13.5
+numpy==2.1.0
+openai==1.43.0
+openai_whisper==20231117
+PyAudio==0.2.14
+Requests==2.32.3
+soundfile==0.12.1
+webrtcvad==2.0.10

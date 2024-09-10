@@ -27,7 +27,6 @@ with app.app_context():
 
     # OpenAI API key
     OpenAI_Key = data['OpenAI']
-    ElevLabs_Key = data['ElevenLabs']
 
 @app.route("/test", methods=["POST"])
 def test():
